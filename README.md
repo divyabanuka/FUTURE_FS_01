@@ -52,7 +52,7 @@ A practical project focused on understanding and working with a robotic arm syst
 
 The latest resume is included in this repository as:
 
-`resume.pdf`
+[View Resume](resume.pdf)
 
 ## 🌐 Live Portfolio
 
@@ -66,10 +66,8 @@ You can contact me through the contact form available on my portfolio website.
 
 This project was developed as part of the **Future Interns Full Stack Web Development Internship**.
 
-## 📌 Repository
+##📌Repositor
 
-GitHub Repository: `FUTURE_FS_01`
-
----
+GitHub Repository: [FUTURE_FS_01](https://github.com/divyabanuka/FUTURE_FS_01)
 
 © 2026 Divya Banuka. All Rights Reserved.
